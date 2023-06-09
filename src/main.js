@@ -1,3 +1,5 @@
+alert('Open your brower\'s console first to see the output');
+
 // Getting devs object keys
 const devKeys = Object.keys(devs[0]);
 
